@@ -4,7 +4,7 @@
 
 ## Requirements
 
-- iOS 9+
+- iOS 10+
 - Swift 4.2+
 - Xcode 10.1+
 
